@@ -33,7 +33,7 @@ Lograr que todas las decisiones se basen en información proveniente de datos co
 
 🥬**Flexibilidad:** nos adaptamos a las exigencias cambiantes del entorno. 
 
-👥**Trabajo en equipo:*** el trabajo colaborativo nos mejora, acelera y multiplica la confianza y el compromiso. 
+👥**Trabajo en equipo:** el trabajo colaborativo nos mejora, acelera y multiplica la confianza y el compromiso. 
 
 🔬**Calidad:** para que la información sea útil y confiable nos debemos asegurar de que los datos tengan : 
 
